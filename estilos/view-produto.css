@@ -1,0 +1,48 @@
+*{
+    color: white;
+}
+
+#desc{
+
+    height: 3dvh;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+img{
+    width: 100dvw;
+}
+#main{
+    margin: 2dvh;
+}
+
+#isAvaiable{
+    color: green;
+}
+
+
+#desc-geral{
+
+    margin-top: 5dvh;
+}
+
+#mais-imgs{
+    margin-top: 5dvh;
+    img{
+        width: 20dvw;
+        border-radius: 10px;
+    }
+    
+}
+
+.btn-buy{
+    width: 90dvw;
+}
+
+#buy-info{
+    margin-top: 5dvh;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
